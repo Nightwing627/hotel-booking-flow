@@ -1,0 +1,54 @@
+{
+  "hotels": [
+    {
+      "id": "1234",
+      "name": "Jianguo Hotel Qianmen",
+      "description": "The Jianguo Hotel Qianmen is located near Tiantan Park, just a 10-minute walk from the National Center for the Performing Arts and Tian'anmen Square.",
+      "price": 100,
+      "rating": 5,
+      "ratingCount": 100,
+      "location": "China",
+      "image": "assets/hotel1.jpg"
+    },
+    {
+      "id": "1235",
+      "name": "Monteverde Country Lodge",
+      "description": "Monteverde Country Lodge is a quiet, comfortable hotel located near the Ecological Sanctuary and the Monteverde Butterfly Gardens in an area called Cerro Plano.",
+      "price": 90,
+      "rating": 3,
+      "ratingCount": 150,
+      "location": "Costa Rica",
+      "image": "assets/hotel2.jpg"
+    },
+    {
+      "id": "1236",
+      "name": "Ibis Wembley",
+      "description": "Ibis London Wembley hotel is in close proximity to Wembley Stadium and Wembley Arena, both just a few minutes’ walk from the hotel.",
+      "price": 140,
+      "rating": 2,
+      "ratingCount": 200,
+      "location": "England",
+      "image": "assets/hotel3.jpg"
+    },
+    {
+      "id": "1237",
+      "name": "Sandman Longueuil",
+      "description": "The Sandman Longueuil hotel has easy access to many of the city’s top attractions, including the Casino, Old Montreal, La Ronde and Montreal’s underground city.",
+      "price": 375,
+      "rating": 4,
+      "ratingCount": 400,
+      "location": "Canada",
+      "image": "assets/hotel4.jpg"
+    },
+    {
+      "id": "1238",
+      "name": "Ibis Paris Berthier",
+      "description": "The Hotel Ibis Paris Berthier is situated in the 17th arrondissement in the north of Paris, close to the Champs-Élysées and the Eiffel Tower.",
+      "price": 125,
+      "rating": 5,
+      "ratingCount": 350,
+      "location": "France",
+      "image": "assets/hotel5.jpg"
+    }
+  ]
+}
